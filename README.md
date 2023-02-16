@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**alfi-dim/alfi-dim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Web Development on [Dicoding](https://www.dicoding.com/users/alfi_dim/academies) and [BANGKIT 2023](https://grow.google/intl/id_id/bangkit/)
+- 📫 Let's be friend (or connected?) [My LinkedIn](https://www.linkedin.com/in/dimasalfiansyah/)
 
-Here are some ideas to get you started:
+##### well i still looking for any *wise-thing* out there, so feel free to reach me if you found one!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It's not that long, but see you around my fellow *learner*!
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfi-dim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfi-dim&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
