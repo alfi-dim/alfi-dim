@@ -14,3 +14,5 @@
 
 
 It's not that long, but see you around my fellow *learner*!
+
+[![wakatime](https://wakatime.com/badge/user/9a942286-3953-4f34-bbf8-1c86b9179919.svg)](https://wakatime.com/@9a942286-3953-4f34-bbf8-1c86b9179919)
