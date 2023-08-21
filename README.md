@@ -1,7 +1,6 @@
 ## Hi there 👋 
 
-- 🌱 I’m currently learning Web Development on [Dicoding](https://www.dicoding.com/users/alfi_dim/academies) and [BANGKIT 2023](https://grow.google/intl/id_id/bangkit/)
-- 📫 Let's be friend (or connected?) [My LinkedIn](https://www.linkedin.com/in/dimasalfiansyah/)
+📫 Let's be friend (or connected?) [My LinkedIn](https://www.linkedin.com/in/dimasalfiansyah/)
 
 #### well i still looking for any *wise-thing* out there, so feel free to reach me if you found one!
 
