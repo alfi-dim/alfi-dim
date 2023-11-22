@@ -4,13 +4,19 @@
 
 #### well i still looking for any *wise-thing* out there, so feel free to reach me if you found one!
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/alfi-dim">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfi-dim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfi-dim&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
+
+<p align="center">
+<a href="https://github.com/alfi-dim">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfi-dim&theme=github_dark"/>
+</a>
+</p>
 
 It's not that long, but see you around my fellow *learner*!
 
